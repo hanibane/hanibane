@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Hani
-- 👀 I’m interested in language learning (not programming languages :) ). I'm familiar with JavaScript and I have solid knowledge of HTML and CSS.
+- 👀 I am a QA Automation Engineer with several years of experience in software development
 - 🌱 I’m currently working on development of [Langoid](https://langoid.com), free platform for languages learning.
-- 💞️ You can reach me if you want to discuss about language learning or saving languagews from dying.
 📫 How to reach me:
-- Facebook: https://www.facebook.com/haneystankovic/
 - Youtube: https://www.youtube.com/channel/UCrGea5QIVaPFgBbpDv1un3Q
 
 
